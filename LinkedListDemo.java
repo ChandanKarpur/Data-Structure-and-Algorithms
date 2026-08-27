@@ -65,7 +65,6 @@ public class LinkedListDemo {
         }
 
         display();
-
         sc.close();
     }
 }
